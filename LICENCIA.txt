@@ -1,0 +1,47 @@
+LICENCIA DE USO PRIVADO DE CYDNO GUIDES (VERSIÓN DE PRUEBA)
+
+Copyright (c) 2026 Cydno. Todos los derechos reservados.
+
+Cydno Guides («el Software») es un software privado de Cydno. No es software libre ni de código abierto y no está disponible para el público. Al instalar o usar el Software aceptas estas condiciones. Si no las aceptas, no lo instales ni lo uses.
+
+1. Quién puede usarlo
+Solo puede usar el Software la persona a la que Cydno se lo haya entregado directamente o haya invitado a usarlo de forma individual («Usuario autorizado»). Tener una copia, encontrar el instalador en internet o recibirlo de otra persona no da ningún derecho de uso.
+
+2. Licencia de prueba gratuita
+Durante el periodo de prueba, Cydno concede al Usuario autorizado, sin coste, una licencia personal, no exclusiva, intransferible, no sublicenciable y revocable para instalar y usar el Software en sus propios equipos con el fin de probarlo, evaluarlo y enviar a Cydno sus comentarios. Los diseños y documentos que crees con el Software son tuyos.
+
+3. Lo que no está permitido
+a) Compartir, entregar o enviar a otras personas el Software, su instalador, sus paquetes o enlaces para descargarlos.
+b) Redistribuir, publicar, vender, alquilar, prestar o sublicenciar el Software o cualquier parte de él, u ofrecerlo como servicio a terceros.
+c) Explotar comercialmente el propio Software (por ejemplo, revenderlo o incluirlo en otros productos o servicios).
+d) Modificar, traducir o adaptar el Software, o crear obras derivadas a partir de él.
+e) Descompilar, desensamblar o aplicar ingeniería inversa al Software, salvo en la medida en que la ley aplicable lo permita de forma expresa pese a esta limitación.
+f) Eludir, desactivar o alterar la firma digital del Software o cualquier sistema de licencias o activación que incorpore.
+g) Eliminar o alterar los avisos de autoría o de licencia.
+
+4. Licencias de pago
+Cydno puede terminar el periodo de prueba en cualquier momento y exigir, para seguir usando el Software o sus versiones posteriores, una licencia de pago (por ejemplo, de pago único o de suscripción anual) y su activación. Esta licencia de prueba no da derecho a recibir gratis ninguna versión ni licencia de pago. Cydno avisará a los Usuarios autorizados antes de que deje de ser gratuito.
+
+5. Comentarios
+Si envías a Cydno sugerencias o comentarios sobre el Software, Cydno puede usarlos libremente, sin obligación ni compensación para ti.
+
+6. Propiedad
+El Software se licencia, no se vende. Cydno conserva todos los derechos sobre el Software, su código, su diseño, su documentación y sus signos distintivos (el nombre y el logotipo de Cydno).
+
+7. Actualizaciones
+El Software puede comprobar si hay versiones nuevas descargando un archivo de los servidores de Cydno. Esa comprobación no envía datos personales, de uso ni de tus documentos, y puedes desactivarla en el propio panel. Las actualizaciones se rigen por esta licencia, salvo que vengan acompañadas de otra.
+
+8. Versión de prueba y sin garantía
+El Software está en fase de prueba y puede contener errores o cambiar sin aviso. Se ofrece «tal cual», sin garantía de ningún tipo, expresa ni implícita, incluidas las de comerciabilidad, idoneidad para un fin concreto y ausencia de infracción.
+
+9. Limitación de responsabilidad
+En la máxima medida que permita la ley, Cydno no será responsable de ningún daño directo, indirecto, incidental o consecuente, ni de la pérdida de datos o trabajo, derivados del uso o de la imposibilidad de usar el Software. Guarda copias de seguridad de tus documentos.
+
+10. Fin de la licencia
+Cydno puede revocar esta licencia en cualquier momento, y termina automáticamente si incumples estas condiciones. En ambos casos debes dejar de usar el Software y desinstalarlo.
+
+11. Marcas de terceros
+Adobe e Illustrator son marcas registradas de Adobe en los Estados Unidos y otros países. Cydno Guides es un producto independiente: no está afiliado a Adobe ni patrocinado o aprobado por ella.
+
+12. Ley aplicable
+Esta licencia se rige por las leyes de la República de Colombia.
