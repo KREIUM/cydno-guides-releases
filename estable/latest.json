@@ -1,0 +1,23 @@
+{
+  "formato": 1,
+  "producto": "com.cydno.guides",
+  "canal": "estable",
+  "version": "1.0.1",
+  "fecha": "2026-10-14",
+  "illustratorMinimo": "26.0",
+  "plataformas": [
+    "win",
+    "mac"
+  ],
+  "notas": [
+    "Cambiado: Nueva licencia: Cydno Guides es software privado en fase de prueba, gratuito solo para las personas a las que Cydno lo entrega o invita. No se puede compartir, redistribuir ni modificar, y más adelante podrá requerir una licencia de pago. «Acerca de» y los instaladores muestran el texto n…"
+  ],
+  "paquete": {
+    "url": "https://kreium.github.io/cydno-guides-releases/paquetes/cydno-guides-1.0.1.zxp",
+    "tamano": 108026,
+    "sha256": "ab788334644a045f86f6d52033dd4d8623737114dd5c964cf68e4ac4722e99ef",
+    "certificado": "9e62cb62036bc05e4abebf3c1d9874bf1f9fc3f596fdb465aa39f926eb87ea63"
+  },
+  "avisos": [],
+  "traslado": null
+}
