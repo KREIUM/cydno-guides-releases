@@ -2,22 +2,31 @@
   "formato": 1,
   "producto": "com.cydno.guides",
   "canal": "estable",
-  "version": "1.0.2",
-  "fecha": "2026-10-24",
+  "version": "1.1.0",
+  "fecha": "2026-10-26",
   "illustratorMinimo": "26.0",
   "plataformas": [
     "win",
     "mac"
   ],
   "notas": [
-    "Añadido: Selector de herramientas en la cabecera: Cydno Guides se organiza en herramientas («Geometría del logo», «Mosaico» y, más adelante, «Presentaciones» y «Manual de marca»). Las pestañas Base, Construcción y Zona de respeto, y los mandos de su capa, solo aparecen dentro de «Geometría del logo…",
-    "Añadido: Herramienta «Mosaico»: reparte un rectángulo seleccionado en 3 a 12 tarjetas redondeadas con su mismo color, en tres tipos (clásico, central e hileras), con separación y radio ajustables al momento. «Variar» propone otra composición, «Aleatorio» prueba ajustes al azar y «Finalizar el borra…",
-    "Añadido: Menú del panel (el icono de la esquina): buscar actualizaciones, «Acerca de», restablecer los ajustes y desinstalar Cydno Guides. La desinstalación pide confirmación, no necesita administrador y borra también los datos de actualización; en Windows usa el desinstalador del instalador, que q…"
+    "Añadido: Herramienta «Composición»: guías de composición por proporción sobre la mesa activa, la selección, todas las mesas o un tamaño escrito, con margen y «Encajar a la proporción». Quince tipos en cinco familias (proporción, encuadre, curvas, geometría y página): sección sucesiva y centrada, lí…",
+    "Añadido: En «Composición», cada cambio regenera en su sitio la composición seleccionada (o la última), sin crear otra; las miniaturas del panel se dibujan con la misma geometría y cambian con la proporción y el origen. Rótulos con las medidas en las unidades del documento, la serie de medidas con «…",
+    "Añadido: Herramienta «Presentaciones»: con los datos del diseñador, la marca y de 1 a 3 conceptos (cada uno con su logomark, logotipo, logo completo, tres fuentes y seis colores), genera en un documento nuevo una presentación de hasta 64 páginas: portada, objetivo, atributos y personalidad; por con…",
+    "Añadido: Herramienta «Manual de marca»: lámina de una página, manual estándar (22 páginas) o completo (40 páginas, con capítulos), en los mismos tres estilos. Incluye construcción, zona de respeto, tamaños mínimos, versiones de color, usos incorrectos, paleta con HEX, RGB y CMYK, combinaciones con …",
+    "Añadido: Los logos se fijan desde la selección de Illustrator con «Fijar selección» y se ven en miniatura en el panel. Las fuentes se buscan entre las instaladas; si falta alguna al generar, se usa Arial y el panel lo dice.",
+    "Añadido: «Aplicar cambios» vuelve a aplicar textos, colores, fuentes y logos a la presentación o al manual activo sin crear otro documento, y respeta lo que hayas añadido o borrado a mano.",
+    "Cambiado: Icono nuevo para «Geometría del logo» en el selector de herramientas.",
+    "Cambiado: El panel se abre más grande (380 × 780) y, en Presentaciones y Manual de marca, «Aplicar cambios» y «Generar» quedan siempre abajo.",
+    "Cambiado: Buscador de fuentes propio: filtra mientras escribes (también sin tildes) y se maneja con el teclado.",
+    "Cambiado: Al quitar páginas de una presentación, las mesas restantes se recolocan sin dejar huecos.",
+    "Cambiado: La extensión publicada ocupa menos: el código de Illustrator se compacta antes de compilarlo (mismo funcionamiento).",
+    "Corregido: El nombre de la herramienta en la cabecera ya no corta la parte de abajo de letras como la «g»."
   ],
   "paquete": {
-    "url": "https://kreium.github.io/cydno-guides-releases/paquetes/cydno-guides-1.0.2.zxp",
-    "tamano": 118139,
-    "sha256": "94bfa2808210390212e1f28edcda2977646242ccd60e6bde07d95bdad088df76",
+    "url": "https://kreium.github.io/cydno-guides-releases/paquetes/cydno-guides-1.1.0.zxp",
+    "tamano": 174581,
+    "sha256": "24db0d2c8f9105d0193442eb54fd62223431dd1e6da8e8690155d3ab3ca4d763",
     "certificado": "9e62cb62036bc05e4abebf3c1d9874bf1f9fc3f596fdb465aa39f926eb87ea63"
   },
   "avisos": [],
